@@ -7,7 +7,7 @@ category: Examples
 draft: false
 ---
 ### Entrapta
-<img src = "src/content/posts/intro-assets/IMG_1296.jpeg">
+<img src = "intro-assets/IMG_1296.jpeg">
 
 Hello! I’m entrapta, the leader of this group. 
 ## Things about me
